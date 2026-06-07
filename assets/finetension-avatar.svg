@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fine Tension avatar</title>
+  <desc id="desc">A minimal aperture and tension-line logo mark for Fine Tension.</desc>
+  <rect width="1024" height="1024" fill="#0D1117"/>
+  <rect x="354" y="320" width="350" height="44" fill="#F0F6FC"/>
+  <rect x="660" y="320" width="44" height="360" fill="#F0F6FC"/>
+  <rect x="334" y="636" width="370" height="44" fill="#F0F6FC"/>
+  <rect x="334" y="320" width="44" height="180" fill="#F0F6FC"/>
+  <polygon points="239,729 775,193 805,223 269,759" fill="#F0F6FC"/>
+  <circle cx="254" cy="744" r="38" fill="#F0F6FC"/>
+  <circle cx="512" cy="486" r="38" fill="#8CF8D2"/>
+  <circle cx="790" cy="208" r="38" fill="#8CF8D2"/>
+</svg>
