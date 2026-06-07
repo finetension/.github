@@ -2,33 +2,27 @@
   <img src="../assets/finetension-banner.svg" alt="Fine Tension" width="100%" />
 </p>
 
-<h1 align="center">Fine Tension</h1>
+<p align="center">
+  <strong>Focused software. Quiet interfaces. Fast loops.</strong>
+</p>
 
 <p align="center">
-  Building focused software with a bias for useful systems, clean interfaces, and fast iteration.
+  Product engineering / AI workflows / Developer tools
 </p>
 
 ---
 
-Fine Tension is a small software lab shaping practical tools around product engineering, AI workflows, and developer experience.
+Fine Tension is a software lab for useful systems with a clean surface.
 
-We care about the kind of tension that makes work better: speed with taste, automation with control, polish without ceremony.
+We build in the space between speed and precision: small tools, product prototypes, and AI-native workflows that stay understandable.
 
-### What we work on
+```txt
+ship small     keep it legible     make it useful
+```
 
-- Product prototypes that can turn into real services
-- AI-assisted workflows for builders and operators
-- Developer tools that remove repeated friction
-- Interfaces that stay quiet, clear, and useful
+#### Current Focus
 
-### Principles
-
-- Ship small, learn quickly, keep the useful parts
-- Prefer simple systems that are easy to inspect
-- Make automation accountable to the people using it
-- Treat design as part of the engineering surface
-
-### Status
-
-Public projects are being prepared. Repositories will appear here as they become useful outside the lab.
-
+- Product systems
+- Agentic workflows
+- Developer experience
+- Minimal interfaces
