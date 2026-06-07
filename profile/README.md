@@ -28,12 +28,10 @@ ship small     keep it legible     make it useful
 
 #### Projects
 
-Public repositories are being prepared. Expect focused releases around:
+Public work starts small and gets polished in place.
 
-- agentic workflows
-- developer experience
-- product systems
-- minimal interfaces
+- [whisperkit-skills](https://github.com/finetension/whisperkit-skills) - Claude Code skills for local transcription and WhisperKit setup.
+- More focused releases around agentic workflows, developer experience, and minimal product systems.
 
 #### Open Source Notes
 
