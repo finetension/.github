@@ -1,13 +1,13 @@
+![Fine Tension](https://capsule-render.vercel.app/api?type=rect&height=220&color=0D1117&text=Fine%20Tension&fontColor=F0F6FC&fontSize=56&fontAlignY=43&desc=AI%20workflows%20%2F%20developer%20tools%20%2F%20product%20systems&descAlignY=65&descSize=18&animation=none)
+
 <p align="center">
-  <img src="../assets/finetension-banner.svg" alt="Fine Tension" width="100%" />
+  <strong>Open source tools for AI workflows and developer experience.</strong>
 </p>
 
 <p align="center">
-  <strong>Focused software. Quiet interfaces. Fast loops.</strong>
-</p>
-
-<p align="center">
-  Product engineering / AI workflows / Developer tools
+  <a href="https://github.com/finetension/whisperkit-skills">whisperkit-skills</a>
+  ·
+  <a href="https://github.com/finetension?tab=repositories">repositories</a>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ---
 
-Fine Tension is a small software lab building useful systems with a clean surface.
+Fine Tension is a small software lab building focused open-source tools.
 
-We work in public when the work is useful outside the lab: small tools, product prototypes, and AI-native workflows that stay understandable.
+We work around local-first AI workflows, developer experience, and compact product systems.
 
 ```txt
 ship small     keep it legible     make it useful
@@ -28,10 +28,9 @@ ship small     keep it legible     make it useful
 
 #### Projects
 
-Public work starts small and gets polished in place.
+- [whisperkit-skills](https://github.com/finetension/whisperkit-skills) - Claude Code skills for local transcription and WhisperKit setup
 
-- [whisperkit-skills](https://github.com/finetension/whisperkit-skills) - Claude Code skills for local transcription and WhisperKit setup.
-- More focused releases around agentic workflows, developer experience, and minimal product systems.
+More releases will land when they are useful enough to maintain in public.
 
 #### Open Source Notes
 
@@ -39,7 +38,3 @@ Public work starts small and gets polished in place.
 - Small APIs over broad frameworks
 - Issues for concrete bugs, proposals, and reproducible gaps
 - Pull requests welcome once the first public packages land
-
-#### Contact
-
-For now, follow the organization to catch public releases as they ship.
